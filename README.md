@@ -7,3 +7,5 @@ This is a repository of some useful files from the Advanced Mechanics of Solids 
 * [Introduction to Jupyter Notebook and SymPy](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/intro_sympy.ipynb)
 
 * [Simply-supported Beam under uniformly-distributed loading](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/simply_supported_UDL.ipynb) This file demonstrates the use of SymPy to easily a problem involving the use of the Airy stress function and the biharmonic equation of 2D elasticity. 
+
+* [Polar Utilities](https://github.com/jeevanjyoti4/advmechsolids2023/blob/master/polarUtilities.py) This file contains a compilation of various useful function definitions to work with Airy stress functions in the polar coordinate system. It can be invoked using `from polarUtilities import *` from another Jupyter Notebook file. 
