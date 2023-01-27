@@ -6,8 +6,14 @@ This is a repository of some useful files from the Advanced Mechanics of Solids 
 
 * [Introduction to Jupyter Notebook and SymPy](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/intro_sympy.ipynb)
 
-* [Simply-supported Beam under uniformly-distributed loading](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/simply_supported_UDL.ipynb) This file demonstrates the use of SymPy to easily a problem involving the use of the Airy stress function and the biharmonic equation of 2D elasticity. 
+* [Simply-Supported Beam under Uniformly-Distributed Loading](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/simply_supported_UDL.ipynb) This file demonstrates the use of SymPy to easily a problem involving the use of the Airy stress function and the biharmonic equation of 2D elasticity. 
 
 * [Polar Utilities](https://github.com/jeevanjyoti4/advmechsolids2023/blob/master/polarUtilities.py) This file contains a compilation of various useful function definitions to work with Airy stress functions in the polar coordinate system. It can be invoked using `from polarUtilities import *` from another Jupyter Notebook file. 
 
 * [Rotating Disk Problem](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/rotating_disk.ipynb) This file contains the solution of the rotating disk problem. It contains explanatory notes and comments. There are a few minor changes from the way it was implemented in class. This problem is an example of a plane stress case and the solution method is based on obtaining a governing differential equation in the radial displacement variable starting from the stress equilibrium equation in the radial direction. 
+
+* [Flamant Problem](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/Flamant.ipynb) This file contains the solution of the Flamant problem, where a vertical point load acts on an elastic half space. 
+
+* [Curved Bar under Pure Bending](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/CurvedBar_PureBending.ipynb) This file contains the solution to the problem where a curved bar is subjected to pure bending. This is again a problem where the Airy stress function is a pure function of the radial coordinate variable. 
+
+* [Curved Bar under Horizontal Load](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/CurvedBar_HorizontalLoad.ipynb) This file contains the solution to the problem where a curved bar is subjected to a horizontal load at one of its ends and is clamped at the other end. 
