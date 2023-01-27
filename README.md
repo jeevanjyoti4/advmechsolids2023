@@ -10,6 +10,10 @@ This is a repository of some useful files from the Advanced Mechanics of Solids 
 
 * [Polar Utilities](https://github.com/jeevanjyoti4/advmechsolids2023/blob/master/polarUtilities.py) This file contains a compilation of various useful function definitions to work with Airy stress functions in the polar coordinate system. It can be invoked using `from polarUtilities import *` from another Jupyter Notebook file. 
 
+* [Polar Strain-Displacment](https://github.com/jeevanjyoti4/advmechsolids2023/blob/master/polar_strain-displ.ipynb) This file contains the derivation of the strain-displacement relations in polar coordinates. 
+
+* [Stress Equilibrium Equations in Cylindrical Coordinates](https://github.com/jeevanjyoti4/advmechsolids2023/blob/master/stress_eqb_cyl.ipynb) This file contains the derivation of the stress equilibrium equations in cylindrical coordinates. 
+
 * [Rotating Disk Problem](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/rotating_disk.ipynb) This file contains the solution of the rotating disk problem. It contains explanatory notes and comments. There are a few minor changes from the way it was implemented in class. This problem is an example of a plane stress case and the solution method is based on obtaining a governing differential equation in the radial displacement variable starting from the stress equilibrium equation in the radial direction. 
 
 * [Flamant Problem](https://nbviewer.org/github/jeevanjyoti4/advmechsolids2023/blob/master/Flamant.ipynb) This file contains the solution of the Flamant problem, where a vertical point load acts on an elastic half space. 
