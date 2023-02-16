@@ -1,4 +1,4 @@
-<h1 align="center"> Advanced Mechanics of Solids, 2023</h1>
+<h1 align="center"> Advanced Mechanics of Solids, (2023)</h1>
 <h2 align="center">Mechanical Engineering Department, Indian Institute of Technology Kharagpur</h2>
 
 
